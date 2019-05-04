@@ -1,0 +1,69 @@
+
+html, body {
+margin: 0;
+text-align: ;
+background-color:lightgray;
+
+}
+
+p {
+  color: darkblue
+  ;
+}
+  h1, h3 {
+    color: darkgray;
+  }
+h2 {
+  color: black
+  font-family: Geneva
+}
+
+  body {
+    background: gray;
+    font-family: "Open Sans";
+  }
+
+  h1 {
+    font-family: "Papyrus";
+  }
+
+  h3 {
+    font-family: "Open Sans";
+  }
+
+  h4 {
+    font-family: "Papyrus";
+}
+
+
+h1 {
+  text-align: center;
+color: darkblue;
+}
+
+  .topnav{
+    background: white;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding: 24px;
+    text-align: center;
+
+  }
+
+  .topnav a {
+    border: solid 2px black;
+    padding: 22px;
+    text-decoration: none;
+  }
+
+  .stories {
+    font-family: "Geneva";
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 20%;
+    text-align: center
+  }
+
+  .stories :hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
