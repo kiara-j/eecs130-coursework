@@ -1,0 +1,27 @@
+html, body {
+margin: 0;
+text-align:
+background-color: white;
+padding: 20px;
+}
+
+p {
+font-family: "Open Sans";
+  color: darkslategray;
+}
+
+h1 {
+font-family: "Verdana";
+text-align: left;
+color: black;
+}
+
+h3 {
+font-family: "Open Sans";
+color: black;
+}
+
+h4 {
+font-family: "Geneva";
+text-align: center;
+}
